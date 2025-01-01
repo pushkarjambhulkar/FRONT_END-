@@ -1,6 +1,4 @@
-# CodeNitrix - Online Coding Assessment Platform
 
-This is an online coding assessment platform built using the MERN stack. It allows companies to create an account and organize their hiring tests on the platform. Users can code in JavaScript, and we plan to add more languages in the future.
 
 ## Features
 
